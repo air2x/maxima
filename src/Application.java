@@ -16,8 +16,26 @@ public class Application {
         double sum = productA + productB - discount;
         System.out.println("Cумма покупки со скидкой: " + sum + "\nСумма скидки: " + discount);
 
-        System.out.println("\nЗадача 3:" + "\na:");
+        System.out.println("\nЗадача 3:");
+        productA = 200;
+        productB = 30;
+        discount = 0.15;
+        double productADiscount = productA * discount;
+        sum = 10 * (productA - productADiscount) + 2 * productB;
+        System.out.println("a: Сумма = " + sum);
 
+        productA = 500;
+        productB = 50;
+        discount = 0.5;
+        productADiscount = productA * discount;
+        sum = 7 * (productA - productADiscount) + productB;
+        System.out.println("б: Сумма = " + sum);
 
+        productA = 300;
+        productB = 20;
+        discount = 0.1;
+        productADiscount = productA * discount;
+        sum = 2 * (productA - productADiscount) + 3 * productB;
+        System.out.println("в: Сумма = " + sum);
     }
 }
