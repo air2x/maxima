@@ -1,3 +1,5 @@
+package HW_2;
+
 public class Application {
     public static int a = 1;
     public static int b = 3;
