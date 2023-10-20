@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_3'">
-      <change afterPath="$PROJECT_DIR$/src/HW_4/HW_4.java" afterDir="false" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_4'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697398772826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="'add HW_4'">
+      <created>1697557234002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697557234002</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +129,7 @@
     <MESSAGE value="'add HW2'" />
     <MESSAGE value="'add HW_2'" />
     <MESSAGE value="'add HW_3'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add HW_3'" />
+    <MESSAGE value="'add HW_4'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add HW_4'" />
   </component>
 </project>

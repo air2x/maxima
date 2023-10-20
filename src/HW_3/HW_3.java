@@ -45,7 +45,7 @@ public class HW_3 {
         System.out.println("Введите число");
         num = scanner.nextInt();
         if (num > 0) {
-            num += 2;
+            num *= 2;
             System.out.println("Введенное число положительное. Результат = " + num);
         } else if (num < 0) {
             num++;
