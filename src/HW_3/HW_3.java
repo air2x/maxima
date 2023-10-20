@@ -38,7 +38,7 @@ public class HW_3 {
         } else if (num == 9 || num == 10 || num == 11) {
             System.out.println("Время года осень");
         } else {
-            System.out.println("Такого месяца не существует");
+            System.out.println("Такого месяца не существует.");
         }
 
         System.out.println("\nЗадание 4");
