@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_4'">
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'fixed exercise 4 HW_3'">
+      <change afterPath="$PROJECT_DIR$/src/HW_5/HW_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       <recent name="HW_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW_4">
+  <component name="RunManager" selected="Application.HW_5">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_2.Application" />
       <module name="HW" />
@@ -63,8 +64,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_5.HW_5" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_4.Test" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW_5" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HW_4" />
         <item itemvalue="Application.Application" />
       </list>
@@ -121,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697557234002</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="'fixed exercise 4 HW_4'">
+      <created>1697812277374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697812277374</updated>
+    </task>
+    <task id="LOCAL-00008" summary="'fixed exercise 4 HW_3'">
+      <created>1697812421202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697812421202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +173,8 @@
     <MESSAGE value="'add HW_2'" />
     <MESSAGE value="'add HW_3'" />
     <MESSAGE value="'add HW_4'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add HW_4'" />
+    <MESSAGE value="'fixed exercise 4 HW_4'" />
+    <MESSAGE value="'fixed exercise 4 HW_3'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'fixed exercise 4 HW_3'" />
   </component>
 </project>
