@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_5'">
-      <change afterPath="$PROJECT_DIR$/src/HW_6/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_6/Exercise_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_6/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_6/Test.java" afterDir="false" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add exercises'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_4/Exercise_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_4/Exercise_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_5/Exercise_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_5/Exercise_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +44,26 @@
       <recent name="HW_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise_4">
+  <component name="RunManager" selected="Application.Exercise_5">
     <configuration name="Exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_4.Exercise_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HW_6.Exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_5.Exercise_5" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_6.Exercise_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_4.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_5" />
         <item itemvalue="Application.Exercise_4" />
         <item itemvalue="Application.HW_6.Exercise_1.Test" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.HW_5" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697985669079</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="'add HW_6'">
+      <created>1698172010487</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698172010487</updated>
+    </task>
+    <task id="LOCAL-00011" summary="'add exercises'">
+      <created>1698172294694</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698172294694</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,6 +218,8 @@
     <MESSAGE value="'fixed exercise 4 HW_4'" />
     <MESSAGE value="'fixed exercise 4 HW_3'" />
     <MESSAGE value="'add HW_5'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add HW_5'" />
+    <MESSAGE value="'add HW_6'" />
+    <MESSAGE value="'add exercises'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add exercises'" />
   </component>
 </project>
