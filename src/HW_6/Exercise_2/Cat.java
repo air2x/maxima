@@ -1,4 +1,4 @@
-package HW_6;
+package HW_6.Exercise_2;
 
 public class Cat {
     String name;

@@ -49,11 +49,11 @@
   </component>
   <component name="RunManager" selected="Application.Exercise_4">
     <configuration name="Exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_4" />
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_4.Exercise_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_6.*" />
+          <option name="PATTERN" value="HW_6.Exercise_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_6.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Test" />
+    <configuration name="HW_6.Exercise_1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_1.Test" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_6.*" />
+          <option name="PATTERN" value="HW_6.Exercise_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Solution" />
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_3.Solution" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_6.*" />
+          <option name="PATTERN" value="HW_6.Exercise_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +116,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercise_4" />
-        <item itemvalue="Application.HW_6.Test" />
+        <item itemvalue="Application.HW_6.Exercise_1.Test" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.HW_5" />
         <item itemvalue="Application.Test" />

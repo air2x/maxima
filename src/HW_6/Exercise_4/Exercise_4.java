@@ -1,4 +1,4 @@
-package HW_6;
+package HW_6.Exercise_4;
 
 import java.util.Scanner;
 

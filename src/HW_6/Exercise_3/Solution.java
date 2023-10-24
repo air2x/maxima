@@ -1,4 +1,4 @@
-package HW_6;
+package HW_6.Exercise_3;
 
 public class Solution {
     public static void main(String[] args) {

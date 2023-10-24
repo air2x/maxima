@@ -1,4 +1,4 @@
-package HW_6;
+package HW_6.Exercise_1;
 
 public class Human {
     private String name;
