@@ -11,8 +11,14 @@ import java.util.Scanner;
 public class Exercise_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите число");
-        int num = sc.nextInt();
+        System.out.println("Введите положительное число");
+        int num = -1;
+        while (num <= 0) {
+            num = sc.nextInt();
+            if (num <= 0) {
+                System.out.println("Введенное число не положительное");
+            }
+        }
         int[] nums = new int[num];
         System.out.println("Введите " + num + " чисел.");
         for (int i = 0; i < num; i++) {
@@ -22,6 +28,6 @@ public class Exercise_5 {
         for (int i : nums) {
             numMax = Math.max(i, numMax);
         }
-        System.out.println(numMax);
+        System.out.println("Max = " + numMax);
     }
 }

@@ -25,13 +25,15 @@ public class Cat {
     public Cat(int weight, String color) {
         this.weight = weight;
         this.color = color;
-        this.name = "Name is unknown";
-        this.address = "Address is unknown";
     }
 
-    public Cat(String address, int weight, String color) {
+    public Cat(String address, String color, int weight) {
         this.address = address;
         this.weight = weight;
         this.color = color;
+    }
+
+    public String toString() {
+        return "Name: " + name + ", Color: " + color + ", Address: " + address + ", Weight: " + weight + ", Age: " + age;
     }
 }

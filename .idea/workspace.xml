@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add exercises'">
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add exercises 5'">
+      <change afterPath="$PROJECT_DIR$/src/HW_6/Exercise_2/CatTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_4/Exercise_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_4/Exercise_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_1/HumanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_5/Exercise_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_5/Exercise_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +48,25 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Exercise_5">
+    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_2.CatTest" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_6.Exercise_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_4.Exercise_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_6.Exercise_1.*" />
+          <option name="PATTERN" value="HW_6.Exercise_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,25 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_5.HW_5" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_3.Solution" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW_6.Exercise_1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_1.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_6.Exercise_1.*" />
+          <option name="PATTERN" value="HW_6.Exercise_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,9 +117,9 @@
       <list>
         <item itemvalue="Application.Exercise_5" />
         <item itemvalue="Application.Exercise_4" />
-        <item itemvalue="Application.HW_6.Exercise_1.Test" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.HW_5" />
+        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698172294694</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="'add exercises 5'">
+      <created>1698173326276</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698173326276</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +230,7 @@
     <MESSAGE value="'add HW_5'" />
     <MESSAGE value="'add HW_6'" />
     <MESSAGE value="'add exercises'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add exercises'" />
+    <MESSAGE value="'add exercises 5'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add exercises 5'" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package HW_6.Exercise_1;
 
-public class Test {
+public class HumanTest {
     public static void main(String[] args) {
         Human stas = new Human("Stas", true, 43);
         Human julia = new Human("Julia", false, 38);
