@@ -18,13 +18,37 @@ public class Solution {
         String address;
 
         public Man(String name, int age, String address) {
+            setName(name);
+            setAge(age);
+            setAddress(address);
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
             this.name = name;
+        }
+
+        public int getAge() {
+            return age;
+        }
+
+        public void setAge(int age) {
             this.age = age;
+        }
+
+        public String getAddress() {
+            return address;
+        }
+
+        public void setAddress(String address) {
             this.address = address;
         }
 
         public String toString() {
-            return name + ", " + age + ", " + address;
+            return getName() + ", " + getAge() + ", " + getAddress();
         }
     }
 
@@ -34,13 +58,37 @@ public class Solution {
         String address;
 
         public Woman(String name, int age, String address) {
+            setName(name);
+            setAge(age);
+            setAddress(address);
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
             this.name = name;
+        }
+
+        public int getAge() {
+            return age;
+        }
+
+        public void setAge(int age) {
             this.age = age;
+        }
+
+        public String getAddress() {
+            return address;
+        }
+
+        public void setAddress(String address) {
             this.address = address;
         }
 
         public String toString() {
-            return name + ", " + age + ", " + address;
+            return getName() + ", " + getAge() + ", " + getAddress();
         }
     }
 }

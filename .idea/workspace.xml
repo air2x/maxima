@@ -52,7 +52,7 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatTest">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_2.CatTest" />
       <module name="HW" />
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.CatTest" />
         <item itemvalue="Application.HumanTest" />
         <item itemvalue="Application.Exercise_5" />
         <item itemvalue="Application.Exercise_4" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
