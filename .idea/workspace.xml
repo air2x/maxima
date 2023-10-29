@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add exercises 5'">
-      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_1/Exercise_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_2/Exercise_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_3/Exercise_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_4/Exercise_4.java" afterDir="false" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_7'">
+      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_7/exercise_1/Horse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_6/Exercise_1/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_6/Exercise_1/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_7/exercise_1/Exercise_1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +47,14 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="HW_2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW_7.exercise_4" />
+      <recent name="HW_7.exercise_3" />
+      <recent name="HW_7.exercise_2" />
+      <recent name="HW_7" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise_5">
-    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_2.CatTest" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_6.Exercise_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HumanTest">
     <configuration name="Exercise_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_4.Exercise_4" />
       <module name="HW" />
@@ -79,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HW_6.Exercise_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_1.HumanTest" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_6.Exercise_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HumanTest" />
         <item itemvalue="Application.Exercise_5" />
         <item itemvalue="Application.Exercise_4" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698246703224</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="'add HW_7'">
+      <created>1698348486410</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698348486410</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +252,7 @@
     <MESSAGE value="'add HW_6'" />
     <MESSAGE value="'add exercises'" />
     <MESSAGE value="'add exercises 5'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add exercises 5'" />
+    <MESSAGE value="'add HW_7'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add HW_7'" />
   </component>
 </project>

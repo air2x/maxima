@@ -8,31 +8,69 @@ public class Human {
     private Human mom;
 
     public Human(String name, boolean gender, int age) {
-        this.name = name;
-        this.gender = gender;
-        this.age = age;
+        setName(name);
+        setGender(gender);
+        setAge(age);
     }
 
     public Human(String name, boolean gender, int age, Human dad, Human mom) {
+        this(name, gender, age);
+        setDad(dad);
+        setMom(mom);
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
         this.name = name;
+    }
+
+    public boolean isGender() {
+        return gender;
+    }
+
+    public void setGender(boolean gender) {
         this.gender = gender;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
         this.age = age;
+    }
+
+    public Human getDad() {
+        return dad;
+    }
+
+    public void setDad(Human dad) {
         this.dad = dad;
+    }
+
+    public Human getMom() {
+        return mom;
+    }
+
+    public void setMom(Human mom) {
         this.mom = mom;
     }
 
     @Override
     public String toString() {
         String text = "";
-        text += "Имя: " + this.name;
-        text += ", пол: " + (this.gender ? "мужской" : "женский");
-        text += ", возраст: " + this.age;
+        text += "Имя: " + getName();
+        text += ", пол: " + (isGender() ? "мужской" : "женский");
+        text += ", возраст: " + getAge();
 
-        if (this.dad != null) {
-            text += ", отец: " + this.dad.name;
+        if (getDad() != null) {
+            text += ", отец: " + getDad().getName();
         }
         if (this.mom != null) {
-            text += ", мать: " + this.mom.name;
+            text += ", мать: " + getMom().getName();
         }
         return text;
     }
