@@ -2,7 +2,7 @@ package HW_8.exercise_2;
 
 public class Aspirant extends Student {
 
-    private String scientificWorkName;
+    private String scientificWorkName = "Название научной работы";
 
     public Aspirant() {
     }
@@ -25,7 +25,11 @@ public class Aspirant extends Student {
 
 
     public void setScientificWorkName(String scientificWorkName) {
-        this.scientificWorkName = scientificWorkName;
+        if (!scientificWorkName.isBlank()) {
+            this.scientificWorkName = scientificWorkName;
+        } else {
+            System.out.println(getScientificWorkName());
+        }
     }
 
     @Override
