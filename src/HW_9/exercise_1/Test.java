@@ -21,17 +21,17 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите логин. Только латинские буквы, цифры и знак подчеркивания не более 20 знаков");
+        System.out.println("Введите логин. Только латинские буквы, цифры и знак подчеркивания не более 20 знаков.");
         String login = sc.nextLine();
-        System.out.println("Введите пароль. Только латинские буквы, цифры и знак подчеркивания не более 20 знаков");
+        System.out.println("Введите пароль. Только латинские буквы, цифры и знак подчеркивания не более 20 знаков.");
         String password = sc.nextLine();
         System.out.println("Повторите пароль.");
         String confirmPassword = sc.nextLine();
 
         if (checksLogPas(login, password, confirmPassword)) {
-            System.out.println("Успешно");
+            System.out.println("Успешно.");
         } else {
-            System.out.println("Повторите попытку");
+            System.out.println("Повторите попытку.");
         }
     }
 
@@ -39,14 +39,14 @@ public class Test {
         try {
             if (!login.matches(".*[a-zA-Z].*") || !login.matches(".*[0-9].*") || !login.matches(".*[_].*")
                     || login.length() > 20) {
-                throw new WrongLoginException("ОШИБКА. Неверный логин");
+                throw new WrongLoginException("ОШИБКА. Неверный логин.");
             }
             if (!password.matches(".*[a-zA-Z].*") || !password.matches(".*[0-9].*") || !password.matches(".*[_].*")
                     || password.length() > 20) {
-                throw new WrongPasswordException("ОШИБКА. Неверный пароль");
+                throw new WrongPasswordException("ОШИБКА. Неверный пароль.");
             }
             if (!password.equals(confirmPassword)) {
-                throw new WrongPasswordException("ОШИБКА. Неверный повтор пароля");
+                throw new WrongPasswordException("ОШИБКА. Неверный повтор пароля.");
             }
             return true;
         } catch (WrongLoginException | WrongPasswordException e) {
