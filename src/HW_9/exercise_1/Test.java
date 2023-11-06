@@ -37,12 +37,12 @@ public class Test {
 
     public static boolean checksLogPas(String login, String password, String confirmPassword) {
         try {
-            if (!login.matches(".*[a-z].*") || !login.matches(".*[A-Z].*") || !login.matches(".*[0-9].*")
-                    || !login.matches(".*[_].*") || login.length() > 20) {
+            if (!login.matches(".*[a-zA-Z].*") || !login.matches(".*[0-9].*") || !login.matches(".*[_].*")
+                    || login.length() > 20) {
                 throw new WrongLoginException("ОШИБКА. Неверный логин");
             }
-            if (!password.matches(".*[a-z].*") || !password.matches(".*[A-Z].*") || !password.matches(".*[0-9].*")
-                    || !password.matches(".*[_].*") || password.length() > 20) {
+            if (!password.matches(".*[a-zA-Z].*") || !password.matches(".*[0-9].*") || !password.matches(".*[_].*")
+                    || password.length() > 20) {
                 throw new WrongPasswordException("ОШИБКА. Неверный пароль");
             }
             if (!password.equals(confirmPassword)) {
