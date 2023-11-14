@@ -12,7 +12,6 @@ import java.util.Scanner;
 //  5. Если таких строк несколько, выведи каждую с новой строки.
 public class EX_3 {
     public static void main(String[] args) {
-        System.out.println("\nЗадание 3");
         Scanner sc = new Scanner(System.in);
         List<String> listString = new ArrayList<>();
         for (int i = 0; i < 5; i++) {

@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_8'">
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_7.java" afterDir="false" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_10'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_7" />
+        <entry key="$PROJECT_DIR$" value="hw_9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,12 +48,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hw__9",
-    "last_opened_file_path": "C:/java/Maxima/HW/HW_2/src/HW_8"
+    "git-widget-placeholder": "hw__10",
+    "last_opened_file_path": "C:/Other/java/maxima/src/test"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Other\java\maxima\src\test" />
       <recent name="C:\java\Maxima\HW\HW_2\src\HW_8" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -68,9 +67,9 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW_10">
-    <configuration name="HW_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.HW_10" />
+  <component name="RunManager" selected="Application.EX_4">
+    <configuration name="EX_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_10.EX_2" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_7.exercise_3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_3.Test" />
+    <configuration name="EX_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_10.EX_3" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_7.exercise_3.*" />
+          <option name="PATTERN" value="HW_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_7.exercise_4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_4.Test" />
+    <configuration name="EX_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_10.EX_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_7.exercise_4.*" />
+          <option name="PATTERN" value="HW_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_10.HW_10" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_1.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_7.exercise_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX_4" />
+        <item itemvalue="Application.EX_2" />
+        <item itemvalue="Application.EX_3" />
         <item itemvalue="Application.HW_10" />
         <item itemvalue="Application.HW_8.exercise_2.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HW_7.exercise_4.Test" />
-        <item itemvalue="Application.HW_7.exercise_3.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698863845789</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="'add HW_10'">
+      <option name="closed" value="true" />
+      <created>1699947837088</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699947837088</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -313,6 +320,7 @@
     <MESSAGE value="'fixed HW_6 ex_3'" />
     <MESSAGE value="'add HW_7'" />
     <MESSAGE value="'add HW_8'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add HW_8'" />
+    <MESSAGE value="'add HW_10'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add HW_10'" />
   </component>
 </project>

@@ -10,7 +10,6 @@ import java.util.List;
 //  4. Используя цикл выведи его содержимое на экран, каждое значение с новой строки.
 public class EX_1 {
     public static void main(String[] args) {
-        System.out.println("Задание 1");
         List<String> listString = new ArrayList<>();
         listString.add("Привет");
         listString.add("Как");

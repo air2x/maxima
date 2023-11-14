@@ -11,7 +11,6 @@ import java.util.Scanner;
 //4. Выведи найденную строку на экран. Если таких строк несколько, выведи каждую с новой строки.
 public class EX_2 {
     public static void main(String[] args) {
-        System.out.println("\nЗадание 2");
         Scanner sc = new Scanner(System.in);
         List<String> listString = new ArrayList<>();
         for (int i = 0; i < 5; i++) {
