@@ -17,9 +17,11 @@ public class EX_5 {
             System.out.println("Введите строку");
             listString.add(sc.nextLine());
         }
-
-
-        for (String s: listString) {
+        for (int i = 0; i < 13; i++) {
+            listString.remove(listString.size() - 1);
+            listString.add(0, listString.get(listString.size() - 1));
+        }
+        for (String s : listString) {
             System.out.println(s);
         }
     }
