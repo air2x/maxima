@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_8'">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_10/EX_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_8/exercise_1/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_8/exercise_1/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_8/exercise_2/Aspirant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_8/exercise_2/Aspirant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_8/exercise_2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_8/exercise_2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_8/exercise_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_8/exercise_2/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WZrhTigQueCYqf6XekKUOXfxfn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hw__8",
+    "git-widget-placeholder": "hw__9",
     "last_opened_file_path": "C:/java/Maxima/HW/HW_2/src/HW_8"
   }
 }]]></component>
@@ -66,13 +68,13 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW_8.exercise_2.Test">
-    <configuration name="HW_7.exercise_2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_2.Test" />
+  <component name="RunManager" selected="Application.HW_10">
+    <configuration name="HW_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_10.HW_10" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_7.exercise_2.*" />
+          <option name="PATTERN" value="HW_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW_10" />
         <item itemvalue="Application.HW_8.exercise_2.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.HW_7.exercise_4.Test" />
         <item itemvalue="Application.HW_7.exercise_3.Test" />
-        <item itemvalue="Application.HW_7.exercise_2.Test" />
       </list>
     </recent_temporary>
   </component>
