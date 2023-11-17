@@ -29,6 +29,14 @@ public class MyLinkedList {
         this.size = size;
     }
 
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
+    }
+
     public String getValue() {
         return value;
     }
@@ -56,14 +64,15 @@ public class MyLinkedList {
     public void add(String s) {
         if (getValue() == null) {
             setValue(s);
-        } else {
+        } else if (getValue() != null && getNext() == null) {
             MyLinkedList list = new MyLinkedList(s);
-            if (getNext() == null) {
-                setNext(list);
-                list.setPrev(this.next);
-                setSize(getSize() + 1);
-            }
+            list.setIndex(getIndex() + 1);
+            list.setPrev(this);
+            setNext(list);
+        } else if (getValue() != null && getNext() != null) {
+            getNext().add(s);
         }
+        setSize(getSize() + 1);
     }
 
     public void get() {
@@ -80,6 +89,6 @@ public class MyLinkedList {
 
     @Override
     public String toString() {
-        return "[" + getValue() + ", " + getNext().getValue() + "]";
+        return "[" + value + ", " + getNext().getValue() + "]";
     }
 }
