@@ -38,7 +38,8 @@ public class EX_7 {
         printList(listInt2);
         printList(listIntOthers);
     }
-// Вывод сделал в одну строку иначе не читабельно.
+
+    // Вывод сделал в одну строку иначе не читабельно.
     public static void printList(List<Integer> list) {
         for (int i : list) {
             System.out.print(i + ", ");

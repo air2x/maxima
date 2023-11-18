@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add hw_11'" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'fixed ex_5 in hw_10'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700248015974</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="'fixed ex_5 in hw_10'">
+      <created>1700293200926</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700293200926</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,6 +351,7 @@
     <MESSAGE value="'add HW_10 ex_5,6,7'" />
     <MESSAGE value="'add HW_10 MyLinkedList'" />
     <MESSAGE value="'add hw_11'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add hw_11'" />
+    <MESSAGE value="'fixed ex_5 in hw_10'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'fixed ex_5 in hw_10'" />
   </component>
 </project>
