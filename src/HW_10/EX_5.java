@@ -18,8 +18,9 @@ public class EX_5 {
             listString.add(sc.nextLine());
         }
         for (int i = 0; i < 13; i++) {
+            String temp = listString.get(listString.size() - 1);
             listString.remove(listString.size() - 1);
-            listString.add(0, listString.get(listString.size() - 1));
+            listString.add(0, temp);
         }
         for (String s : listString) {
             System.out.println(s);
