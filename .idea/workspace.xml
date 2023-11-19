@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_10 MyLinkedList'">
-      <change afterPath="$PROJECT_DIR$/src/HW_11/EX_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_11/EX_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_11/EX_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_11/EX_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_11/EX_5.java" afterDir="false" />
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'fixed ex_5 in hw_10'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_11/EX_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_11/EX_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_11/EX_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_11/EX_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_11/EX_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_11/EX_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_11/EX_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_11/EX_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_11/EX_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_11/EX_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hw_11" />
+        <entry key="$PROJECT_DIR$" value="hw_10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,13 +67,52 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.HW_11.EX_5">
+    <configuration name="EX_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_11.EX_1" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_11.EX_2" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_11.EX_3" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EX_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_4" />
+      <option name="MAIN_CLASS_NAME" value="HW_11.EX_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
+          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,51 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_5" />
+    <configuration name="HW_11.EX_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_11.EX_5" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_6" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_7" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.myLinkedList.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_10.myLinkedList.*" />
+          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.EX_7" />
-        <item itemvalue="Application.EX_6" />
-        <item itemvalue="Application.EX_5" />
+        <item itemvalue="Application.HW_11.EX_5" />
         <item itemvalue="Application.EX_4" />
+        <item itemvalue="Application.EX_3" />
+        <item itemvalue="Application.EX_1" />
+        <item itemvalue="Application.EX_2" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700232751625</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="'add hw_11'">
+      <created>1700248015974</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700248015974</updated>
+    </task>
+    <task id="LOCAL-00025" summary="'fixed ex_5 in hw_10'">
+      <created>1700293200926</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700293200926</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,6 +351,8 @@
     <MESSAGE value="'add HW_10'" />
     <MESSAGE value="'add HW_10 ex_5,6,7'" />
     <MESSAGE value="'add HW_10 MyLinkedList'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add HW_10 MyLinkedList'" />
+    <MESSAGE value="'add hw_11'" />
+    <MESSAGE value="'fixed ex_5 in hw_10'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'fixed ex_5 in hw_10'" />
   </component>
 </project>

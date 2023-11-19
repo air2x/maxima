@@ -1,8 +1,6 @@
 package HW_11;
 
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 
 //1
 //Введи с клавиатуры 5 слов в HashSet.
@@ -15,10 +13,15 @@ public class EX_1 {
             System.out.println("Введите строку");
             set.add(sc.nextLine());
         }
-        set.remove(2);
+        System.out.println("HashSet = " + set); // проверка для себя для наглядности
+        List<String> tempList = new ArrayList<>(set);
+        System.out.println("List = " + tempList);  // проверка для себя для наглядности
+        tempList.remove(2);
+        set.clear();
+        set.addAll(tempList);
         System.out.println(set);
-        for (int i = set.size() - 1; i > 0; i++) {
-            System.out.println(set.getClass());
+        for (String s : set) {
+            System.out.println(s);
         }
     }
 }
