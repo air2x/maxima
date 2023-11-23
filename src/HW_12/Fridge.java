@@ -48,7 +48,7 @@ public class Fridge {
     public void addOrders(String name, int count) throws InterruptedException {
         if (products.containsKey(name)) {
             System.out.println(name + " уже есть " + products.get(name) + " штук.\nХотите добавить еще? " +
-                    "Введите количество, которе хотите добавить в холодильник, если не хотите добавлять, то введите 0");
+                    "Введите количество, которое хотите добавить в холодильник, если не хотите добавлять, то введите 0");
             int takeCount = sc.nextInt();
             if (takeCount > 0) {
                 orders.put(name, takeCount);
