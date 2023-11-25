@@ -4,12 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'fixed ex_5 in hw_10'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/myLinkedList/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +60,10 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX_5">
-    <configuration name="EX_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_5" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
+          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_7.exercise_3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_3.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_7.exercise_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_7.exercise_4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_4.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_7.exercise_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_6.Exercise_3.Solution" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_6.Exercise_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_7.exercise_1.Test" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_7.exercise_1.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +102,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX_5" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.HW_7.exercise_4.Test" />
-        <item itemvalue="Application.HW_7.exercise_3.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +290,6 @@
       <option name="project" value="LOCAL" />
       <updated>1700293200926</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,8 +312,5 @@
     <MESSAGE value="'add HW_10'" />
     <MESSAGE value="'add HW_10 ex_5,6,7'" />
     <MESSAGE value="'add HW_10 MyLinkedList'" />
-    <MESSAGE value="'add hw_11'" />
-    <MESSAGE value="'fixed ex_5 in hw_10'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'fixed ex_5 in hw_10'" />
   </component>
 </project>
