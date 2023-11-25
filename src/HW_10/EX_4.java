@@ -16,7 +16,7 @@ public class EX_4 {
             System.out.println("Введите строку");
             listString.add(0, sc.nextLine());
         }
-        for (String s: listString) {
+        for (String s : listString) {
             System.out.println(s);
         }
     }

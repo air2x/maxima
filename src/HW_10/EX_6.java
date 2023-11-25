@@ -20,7 +20,7 @@ public class EX_6 {
         }
         int lengthMin = listString.get(0).length();
         int lengthMax = listString.get(0).length();
-        for (String s: listString) {
+        for (String s : listString) {
             if (lengthMin > s.length()) {
                 lengthMin = s.length();
             }
@@ -28,8 +28,8 @@ public class EX_6 {
                 lengthMax = s.length();
             }
         }
-        for (String s: listString) {
-            if (s.length() == lengthMin  || s.length() == lengthMax) {
+        for (String s : listString) {
+            if (s.length() == lengthMin || s.length() == lengthMax) {
                 System.out.println(s);
                 break;
             }

@@ -4,10 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add hw_11'">
-      <change afterPath="$PROJECT_DIR$/src/HW_12/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +60,6 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EX_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_11.EX_1" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_11.EX_3" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_11.EX_4" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_11.EX_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_11.EX_5" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_12.Main" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_12.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +102,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HW_11.EX_5" />
-        <item itemvalue="Application.EX_4" />
-        <item itemvalue="Application.EX_3" />
-        <item itemvalue="Application.EX_1" />
       </list>
     </recent_temporary>
   </component>
@@ -325,14 +290,6 @@
       <option name="project" value="LOCAL" />
       <updated>1700293200926</updated>
     </task>
-    <task id="LOCAL-00026" summary="'add hw_11'">
-      <created>1700402929803</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1700402929803</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,8 +312,5 @@
     <MESSAGE value="'add HW_10'" />
     <MESSAGE value="'add HW_10 ex_5,6,7'" />
     <MESSAGE value="'add HW_10 MyLinkedList'" />
-    <MESSAGE value="'fixed ex_5 in hw_10'" />
-    <MESSAGE value="'add hw_11'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add hw_11'" />
   </component>
 </project>
