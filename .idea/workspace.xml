@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_10'">
+    <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add HW_13'">
+      <change afterPath="$PROJECT_DIR$/src/HW_13/EX_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_13/EX_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_13/EX_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_13/EX_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_13/EX_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_10/EX_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_10/EX_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_13/HW_13.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +68,39 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX_7">
-    <configuration name="EX_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_3" />
+  <component name="RunManager" selected="Application.EX_5">
+    <configuration name="EX_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_13.EX_1" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
+          <option name="PATTERN" value="HW_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_13.EX_2" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_13.EX_3" />
+      <module name="HW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="EX_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_4" />
+      <option name="MAIN_CLASS_NAME" value="HW_13.EX_4" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
+          <option name="PATTERN" value="HW_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,37 +122,11 @@
       </method>
     </configuration>
     <configuration name="EX_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_5" />
+      <option name="MAIN_CLASS_NAME" value="HW_13.EX_5" />
       <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_6" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_10.EX_7" />
-      <module name="HW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_10.*" />
+          <option name="PATTERN" value="HW_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX_7" />
-        <item itemvalue="Application.EX_6" />
         <item itemvalue="Application.EX_5" />
+        <item itemvalue="Application.EX_1" />
         <item itemvalue="Application.EX_4" />
         <item itemvalue="Application.EX_3" />
+        <item itemvalue="Application.EX_2" />
       </list>
     </recent_temporary>
   </component>
