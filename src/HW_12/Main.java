@@ -9,6 +9,7 @@ public class Main {
         fridge.addProduct("Огурец", 8);
         fridge.addProduct("Помидор", 20);
 
+
         fridge.printFridge();
 
         fridge.take("Огурец", 2);
