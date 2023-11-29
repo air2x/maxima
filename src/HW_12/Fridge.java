@@ -19,7 +19,7 @@ public class Fridge {
 
     public void take(String nameProduct, int count) {
         if (!products.containsKey(nameProduct)) {
-            System.out.println(nameProduct + " нет в холодильнике");
+            System.out.println(nameProduct + " нет в холодильнике.");
         } else {
             if (products.get(nameProduct) < count) {
                 System.out.println(nameProduct + " " + count + " столько нет, в холодильнике всего " +
