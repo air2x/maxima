@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb35ba1-d3a7-4463-a771-fa291b728734" name="Changes" comment="'add ex_1 hw_14'">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_14/EX_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_14/EX_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_14/EX_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_14/EX_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_14/EX_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_14/EX_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_14/EX_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_14/EX_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <recent name="HW_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX_2">
+  <component name="RunManager" selected="Application.HW_14.EX_3">
     <configuration name="EX_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW_14.EX_2" />
       <module name="HW" />
@@ -139,10 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW_14.EX_3" />
         <item itemvalue="Application.EX_2" />
         <item itemvalue="Application.HW_14.EX_1" />
         <item itemvalue="Application.HW_14.EX_4" />
-        <item itemvalue="Application.HW_14.EX_3" />
         <item itemvalue="Application.EX_5" />
       </list>
     </recent_temporary>
